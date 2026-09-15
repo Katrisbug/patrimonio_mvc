@@ -6,7 +6,7 @@ import 'package:mvc/model/patrimonio_model.dart';
 class PatrimonioService {
 
   // Endereço da API
-  final String baseUrl = 'http://10.0.2.2:8080';
+  final String baseUrl = 'http://localhost:8080';
 
   // 1. LISTAR PATRIMÔNIOS
   // GET /api/v1/patrimonios
